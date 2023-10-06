@@ -10,7 +10,7 @@ salvare tutti i files che saranno creati per gli esercizi.
 
 ## Esercizio 1 - Hello World in C++
 
-Scrivere un programma in C++ in cui si mostri su schermo la frase "Hello Word!".
+Scrivere un programma in C++ in cui si mostri su schermo la frase "Hello World!".
 
 1. Aprire un terminale e creare un nuovo file chiamato `esercizio1.cc`, con
 `code` un programma in C++ che mostri su schermo la frase "Hello World!".
