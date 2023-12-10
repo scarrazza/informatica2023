@@ -1,4 +1,4 @@
-# Laboratorio di informatica (5/12)
+# Laboratorio di informatica 5
 ### Prof. Stefano Carrazza - Corso C
 
 **Riassunto:** Esercizi di base in C++: cicli for, while, do/while.

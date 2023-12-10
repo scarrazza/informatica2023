@@ -1,4 +1,4 @@
-# Laboratorio di informatica (2/12)
+# Laboratorio di informatica 2
 ### Prof. Stefano Carrazza - Corso C
 
 **Riassunto:** Esercizi di base per la programmazione in C++.

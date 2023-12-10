@@ -1,4 +1,4 @@
-# Laboratorio di informatica (7/12)
+# Laboratorio di informatica 7
 ### Prof. Stefano Carrazza - Corso C
 
 **Riassunto:** Esercizi di base in C++: puntatori e funzioni.

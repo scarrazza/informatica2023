@@ -1,4 +1,4 @@
-# Laboratorio di informatica (6/12)
+# Laboratorio di informatica 6
 ### Prof. Stefano Carrazza - Corso C
 
 **Riassunto:** Esercizi di base in C++: arrays.

@@ -1,4 +1,4 @@
-# Laboratorio di informatica (4/12)
+# Laboratorio di informatica 4
 ### Prof. Stefano Carrazza - Corso C
 
 **Riassunto:** Esercizi di base in C++: if e else e switch.
