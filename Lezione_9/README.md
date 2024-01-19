@@ -49,9 +49,9 @@ Scrivere un **programma in C++** in cui dei punti letti da file vengono classifi
 
 1. Definire una struttura dati per punti sul piano `(x,y)`. Scaricare il file di dati con le coordinate `(x,y)` di 1000 punti con:
     ```
-    wget https://raw.githubusercontent.com/scarrazza/informatica2023/master/Lezione_10/data3.dat
+    wget https://raw.githubusercontent.com/scarrazza/informatica2023/master/Lezione_9/data3.dat
     # oppure
-    curl https://raw.githubusercontent.com/scarrazza/informatica2023/master/Lezione_10/data3.dat -o data3.dat
+    curl https://raw.githubusercontent.com/scarrazza/informatica2023/master/Lezione_9/data3.dat -o data3.dat
     ```
 
 2. Caricare i dati da file in un array dinamico della struttura definita al punto 1.
